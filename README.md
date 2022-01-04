@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @donaghsugrue
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-donaghsugrue/donaghsugrue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in music, digital art and web development
+- 🌱 I’m currently learning Sonic Pi and different ways of programming music
+- 📫 You can find me at:
+    Facebook    Donagh O'Síochrú
+    Instagram   @donaghsugrue
+    Twitter     @donaghsugrue
+    Gmail       donaghsugrue@gmail.com
