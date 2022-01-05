@@ -1,5 +1,5 @@
 👋 Hi, I’m Donagh  
-👀 I’m interested in music, digital art and web development  
+:man_technologist: I’m interested in music, digital art and web development  
 :musical_note: I’m currently learning *Sonic Pi* and different ways of programming music  
 📫 You can find me at:
 
@@ -20,3 +20,12 @@
 
 **LinkTree**
 >[@donaghsugrue](https://linktr.ee/donaghsugrue)
+  
+� � � � � � � � � � � � � �  
+  
+Currently on repeat:  
+- [아버지 - reflection](https://open.spotify.com/album/48sM6tbcPwaoNNyLQkU0RT?si=MSSP-RFTTb-gJHZAUDyBXA)  
+- [Meljoann - H.R.](https://open.spotify.com/album/7mjOzg5pBmk7nPG0rWaOIy?si=BiSN-0TuTMuOZdMp8EbuwQ)  
+- [Magdalena Bay - Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY?si=QUdPaGv_S9-3_PfmaxDK4A)  
+- [Lil Data - Folder Dot Zip](https://open.spotify.com/album/7eZi5McPh9C27ZZZg2sNui?si=FwHY-Z1zQ--Rz_zq7g-8fg)  
+- [Steve Roach - Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh?si=r80RqtM7TaW5arq_SGenVA)
