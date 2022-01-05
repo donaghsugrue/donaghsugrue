@@ -16,7 +16,7 @@
 >[/in/donagh-sugrue-46b8397b/](https://www.linkedin.com//in/donagh-sugrue-46b8397b/)
 
 **Gmail**
->[donaghsugrue@gmail.com](https://pages.github.com/)
+>[donaghsugrue@gmail.com](mailto:donaghsugrue@gmail.com)
 
 **LinkTree**
 >[@donaghsugrue](https://linktr.ee/donaghsugrue)
