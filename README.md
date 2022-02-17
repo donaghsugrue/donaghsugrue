@@ -24,8 +24,8 @@
 � � � � � � � � � � � � � �  
   
 Currently on repeat:  
-- [아버지 - reflection](https://open.spotify.com/album/48sM6tbcPwaoNNyLQkU0RT?si=MSSP-RFTTb-gJHZAUDyBXA)  
-- [Meljoann - H.R.](https://open.spotify.com/album/7mjOzg5pBmk7nPG0rWaOIy?si=BiSN-0TuTMuOZdMp8EbuwQ)  
-- [Magdalena Bay - Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY?si=QUdPaGv_S9-3_PfmaxDK4A)  
-- [Lil Data - Folder Dot Zip](https://open.spotify.com/album/7eZi5McPh9C27ZZZg2sNui?si=FwHY-Z1zQ--Rz_zq7g-8fg)  
-- [Steve Roach - Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh?si=r80RqtM7TaW5arq_SGenVA)
+- [아버지 - reflection](https://father.2006.kr/album/reflection)  
+- [Meljoann - H.R.](https://boyscoutaudio.bandcamp.com/album/h-r)  
+- [Magdalena Bay - Mercurial World](https://magdalenabay.bandcamp.com/album/mercurial-world)  
+- [Lil Data - Folder Dot Zip](https://lildatapcmusic.bandcamp.com/album/folder-dot-zip)  
+- [Steve Roach - Structures From Silence](https://steveroach.bandcamp.com/album/structures-from-silence-30th-anniversary-3cd-remastered-edition)
