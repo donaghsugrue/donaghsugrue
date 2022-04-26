@@ -4,7 +4,7 @@
 📫 You can find me at:
 
 **Mastodon*
->[Donagh O'Síochrú](https://www.facebook.com/donaghsugrue/)
+>[@donaghsugrue@mastodon.ie](https://mastodon.ie/web/@donaghsugrue)
 
 **Gmail**
 >[donaghsugrue@gmail.com](mailto:donaghsugrue@gmail.com)
