@@ -3,7 +3,7 @@
 :musical_note: I’m currently learning *Sonic Pi* and different ways of programming music  
 📫 You can find me at:
 
-**Mastodon*
+**Mastodon**
 >[@donaghsugrue@mastodon.ie](https://mastodon.ie/web/@donaghsugrue)
 
 **Gmail**
