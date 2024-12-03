@@ -3,8 +3,8 @@
 :musical_note: I’m currently trying (some would say failing) to learn *Sonic Pi*  
 📫 You can find me at:
 
-**Mastodon**
->[@donaghsugrue@mastodon.ie](https://mastodon.ie/web/@donaghsugrue)
+**Bluesky**
+>[@donaghsugrue.bsky.social](https://bsky.app/profile/donaghsugrue.bsky.social)
 
 **Proton**
 >[donaghsugrue@proton.me](mailto:donaghsugrue@proton.me)
